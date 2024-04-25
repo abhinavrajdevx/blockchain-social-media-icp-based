@@ -24,3 +24,12 @@ Existing bugs ( !! THIS PROJECT WAS AMDE IN A HACKATHON CONDUCTED BY ICP !! ) :
 3. poor implementation of comments and thus not scalable.
 
 I will be fixing the issues and make the code be of production level as soon as I get time.
+
+TECH STACK :
+
+ReactJs
+ICP
+Juno
+Tailwind CSS
+Javascript
+React Router
